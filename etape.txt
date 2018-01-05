@@ -5,9 +5,18 @@ git push
 pousse les modifications sur le serveur
 
 git pull
+git pull
+tirer les modification du serveur vers la machine
+git pull execute deux commande
 tirer les modification du serveur vers la machine
 git pull execute deux commande
 - git fetch
 -git rebase
 
 
+git pull-request
+ etape:
+   -créer un fork du projet;
+   -créer une nouvelle branche;
+   -faire ses modifications et commit;
+   -ouvrir un pull request sur le projet original
