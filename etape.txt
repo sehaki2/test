@@ -10,4 +10,7 @@ git pull execute deux commande
 - git fetch
 -git rebase
 
-
+git revert <commit>( on fait git log et ca nous affiche les numeros de chaque
+commit)
+ annul un commit particulier ou un ensemble de commit
+ sans modifier les commits précédents.
